@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChapterEnamTugas/app/src/main/res/layout/activity_async_task_film.xml" value="0.209375" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChapterEnamTugas/app/src/main/res/layout/activity_bmi.xml" value="0.25" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/ChapterEnamTugas/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChapterEnamTugas/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ChapterEnamTugas/app/src/main/res/layout/item_film.xml" value="0.33" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ChapterEnamTugas/app/src/main/res/layout/splash_bmi.xml" value="0.18" />
       </map>
     </option>
